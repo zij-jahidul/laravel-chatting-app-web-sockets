@@ -1,0 +1,5 @@
+php artisan ser
+npm run dev
+php artisan websockets:serve
+php artisan tinker
+event(new App\Events\MessageSent("Hello World"))
